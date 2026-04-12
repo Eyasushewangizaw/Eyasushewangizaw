@@ -35,10 +35,9 @@ I've built end-to-end systems on **GCP** and **Snowflake**, processing millions 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ---
-
 ## Certifications
 
-| Badge | Certification | Issuer | Status |
+| | Certification | Issuer | Status |
 |---|---|---|---|
 | ![AZ-900](https://img.shields.io/badge/AZ--900-0078D4?style=flat&logo=microsoftazure&logoColor=white) | Microsoft Azure Fundamentals — AZ-900 | Microsoft | ✅ Certified |
 
