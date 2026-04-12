@@ -34,14 +34,6 @@ I've built end-to-end systems on **GCP** and **Snowflake**, processing millions 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
----
-
-## GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Eyasushewangizaw&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyasushewangizaw&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ---
 
