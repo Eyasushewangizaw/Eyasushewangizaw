@@ -17,7 +17,7 @@
 
 I'm a **Master's student in Data Science** with a strong focus on **data engineering**. I design and build production-grade pipelines using **Apache Airflow**, **Kafka**, **PySpark**, and **dbt** — following **Medallion Architecture** principles to deliver clean, analytics-ready data.
 
-I've built end-to-end systems on **GCP** and **Snowflake**, processing millions of records across healthcare,e-commerce, finance, and retail domains. I'm actively looking for **internship or full-time opportunities** where I can contribute to real-world data infrastructure.
+I've built end-to-end systems on **GCP** and **Snowflake**, processing millions of records across healthcare, e-commerce, finance, and retail domains. I'm actively looking for **internship or full-time opportunities** where I can contribute to real-world data infrastructure.
 
 ---
 
